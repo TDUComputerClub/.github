@@ -1,4 +1,4 @@
-# TDUComputerClub
+# ABOUT TDUCC
 
 ## 班名
 
