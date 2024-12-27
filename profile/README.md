@@ -1,4 +1,6 @@
 # ABOUT TDUCC
+東京電機大学理工学部学術文化部会コンピュータクラブ部です。  
+入部希望者はTwitterへのDM(README下部参照)や
 
 ## 班名
 
@@ -25,3 +27,6 @@
 | 10月 | 学園祭に向けての班制作 |
 | 11月 | 学園祭出展 |
 | 12月 | 引継ぎ |
+
+## CONTACT
+[公式Twitterアカウント](https://x.com/tducomputer)
