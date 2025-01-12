@@ -30,5 +30,6 @@
 | 11月 | 学園祭出展 |
 | 12月 | 引継ぎ |
 
-## CONTACT
+## 各種リング
 [公式Twitterアカウント](https://x.com/tducomputer)
+[UnityRoom](https://unityroom.com/users/tducomputer)
